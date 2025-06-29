@@ -1,2 +1,4 @@
 # Ola Mundo!
 Meu primeiro repositório do GitHub
+
+Repositório criado para entender o funcionamento do git, durante uma aula do professor Guanabara
